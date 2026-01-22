@@ -16,7 +16,7 @@ body {
 h1 {
   color: whitesmoke;
   text-align: center;
-  font-size: 43px;
+  font-size: 53px;
   font-weight: bolder;
   margin-top: 10px;
   margin-bottom: 60px;
@@ -215,4 +215,5 @@ input {
   0% {opacity: 0; bottom: 1%;}
   20%, 80% {opacity: 1; bottom: 4%;}
   100% {opacity: 0; bottom: 4%;}
+
 }
